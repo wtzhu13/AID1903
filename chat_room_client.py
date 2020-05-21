@@ -17,7 +17,7 @@ from socket import *
 import os,sys
 
 # 服务器地址
-ADDR = ('176.136.12.44', 8888)
+ADDR = ('192.168.0.6', 8888)
 
 
 # 发送消息
